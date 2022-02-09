@@ -1,0 +1,14 @@
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form1.resources
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.Cache
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.GUI.MARKET.resources
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.GUI.BUYING.resources
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.GUI.STORAGE.resources
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.GUI.BILLS.resources
+c:\users\monzer\documents\visual studio 2015\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.GUI.SUPPLIES.resources
